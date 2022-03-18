@@ -1,0 +1,18 @@
+
+run                                   # Run Page (run the main.py)
+run page_name                         # Run Page (e.g. run PAGE_NAME run the PAGE_NAME)
+
+create_page                           # Create Page w/functions (e.g. create_page PAGE_NAME)
+delete_page                           # Delete Page w/functions (e.g. delete_page PAGE_NAME)
+
+change_default_page                   # change default page (e.g. change_default_page PAGE_NAME)
+
+
+
+
+TODO:
+delete_page_only
+delete_function_only
+create_page_only                      # Create page only (e.g. create_page_only myPage)
+create_function_only                  # Create function only (e.g. create_function_only myFunction)
+
